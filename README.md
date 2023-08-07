@@ -1,7 +1,7 @@
 # credomator
 
 This program creates video credits from a simple textfile. 
-Simply wirte your content in the program-secific [syntax](#syntax) and it will generate your credits.
+Simply write your content in the program-secific [syntax](#syntax) and it will generate your credits.
 
 A generated video can look like this:
 
@@ -14,16 +14,16 @@ character until the end of line.
 ### Settings
 The file starts with your video settings. Following settings are availabe:
 
-* `width` -> video width >default: 1920
-* `height` -> video hight >default: 1080
-* `background color` -> tuple in RGBA >(0, 0, 0, 1)
-* `text color` -> tuple in RGB >(255, 255, 255)
+* `width` -> video width *default: 1920*
+* `height` -> video height *default: 1080*
+* `background color` -> tuple in RGBA *default: (0, 0, 0, 1)*
+* `text color` -> tuple in RGB *default: (255, 255, 255)*
 * `font` -> path to the font you want to use 
-* `fps` -> frame rate in frames per seccond >default: 25
-* `orientation`
+* `fps` -> frame rate in frames per seccond *default: 25*
+* `orientation` -> **not included yet**
 * `text size` -> text size in px
 * `line space` -> line space in px
-* `speed`-> video speed depending on fps
+* `speed` -> video speed depending on fps
 * `box separator` -> separator used in block type "box"
 * `border` -> border to the left and right video edges in px
 * `tuple space` -> space between left and right site in block tuple
@@ -36,7 +36,7 @@ for every other text exept for the left side of a tuple
 >the program uses to link the settings
 
 
-### Blck definition
+### Block definition
 Each block has a type. The type can be *tuple*, *table*, or *box*. These types define which
 textlayout to choose.
 
