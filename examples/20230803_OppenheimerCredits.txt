@@ -1,0 +1,282 @@
+width = 1280
+height = 720
+background color = (0, 0, 0, 1) #in RGB (open) you can create color gradient by using formulas with x as value
+text color = (255, 255, 255)
+font = 1
+orientation  = 1 #(rb, br, bb , rr, b, r)
+text size = 35
+#line space = 7
+speed = 5
+box separator = •
+border = 100
+tuple space = 50
+block offset = 50
+
+*Oppenheimer*(h1, box){
+
+}
+
+
+*Cast*(h2, tuple){
+J Robert Oppenheimer:	Cillian Murphy
+Kitty Oppenheimer:	Emily Blunt
+Lewis Strauss:	Robert Downey Jr.
+Senate Aide	:	Alden Ehrenreich
+Counsel	:	Scott Grimes
+Roger Robb	:	Jason Clarke
+Thomas Morgan	:	Kurt Koehler
+Gordon Gray	:	Tony Goldwyn
+Ward Evans	:	John Gowans
+Lloyd Garrison	:	Macon Blair
+Patrick Blackett	:	James D'Arcy
+Niels Bohr	:	Kenneth Branagh
+Senator McGee	:	Harry Groener
+Chairman Magnuson	:	Gregory Jbara
+Senator Bartlett	:	Ted King
+Senator Pastore	:	Tim DeKay
+Senator Scott	:	Steven Houska
+Albert Einstein	:	Tom Conti
+Isidor Rabi	:	David Krumholtz
+Dutch Student	:	Petrie Willink
+Werner Heisenberg	:	Matthias Schweighöfer
+Ernest Lawrence	:	Josh Hartnett
+Luis Alvarez	:	Alex Wolff
+Rossi Lomanitz	:	Josh Zuckerman
+Hartland Snyder	:	Rory Keane
+Robert Serber	:	Michael Angarano
+Frank Oppenheimer	:	Dylan Arnold
+Jackie Oppenheimer	:	Emma Dumont
+Jean Tatlock	:	Florence Pugh
+Mary Washburn	:	Sadie Stratton
+Haakon Chevalier	:	Jefferson Hall
+Barbara Chevalier	:	Britt Kyle
+George Eltenton	:	Guy Burnet
+Richard Tolman	:	Tom Jenkins
+Vannevar Bush	:	Matthew Modine
+Ruth Tolman	:	Louise Lombard
+William Borden	:	David Dastmalchian
+Joe Volpe	:	Michael Andrew Baker
+Congressman	:	Jeff Hephner
+Leslie Groves	:	Matt Damon
+Kenneth Nichols	:	Dane DeHaan
+Edward Condon	:	Olli Haaskivi
+Donald Hornig	:	David Rysdahl
+Kenneth Bainbridge	:	Josh Peck
+Richard Feynman	:	Jack Quaid
+Concerned Scientist	:	Brett DelBuono
+Edward Teller	:	Benny Safdie
+Hans Bethe	:	Gustaf Skarsgård
+Kurt Gödel	:	James Urbaniak
+George Kistiakowsky	:	Trond Fausa
+Seth Neddermeyer	:	Devon Bostick
+Enrico Fermi	:	Danny Deferrari
+Klaus Fuchs	:	Christopher Denham
+Charlotte Serber	:	Jessica Erin Martin
+J Ernest Wilkins	:	Ronald Auguste
+David Hill	:	Rami Malek
+Leo Szilard	:	Máté Haumann
+Lilli Hornig	:	Olivia Thirlby
+Lyall Johnson	:	Jack Cutmore-Scott
+Boris Pash	:	Casey Affleck
+Philip Morrison	:	Harrison Gilbertson
+Henry Stimson	:	James Remar
+George C. Marshall	:	Will Roberts
+James Byrnes	:	Pat Skipper
+James Conant	:	Steve Coulter
+AAF Officer	:	Jeremy John Wells
+Weatherman	:	Sean Avery
+Army Captain	:	Adam Kroeger
+Soldier	:	Drew Kenney
+AAF Officer 2	:	Bryce Johnson
+Burn Victim	:	Flora Nolan
+Laughing Woman	:	Kerry Westcott
+Kissing Woman	:	Christina Hogue
+Kissing Man	:	Clay Bunker
+Weeping Man	:	Tyler Beardsley
+Consoling Woman	:	Maria Teresa Zuppetta
+Presidential Aide	:	Kate French
+Harry Truman	:	Gary Oldman
+Lyndon Johnson	:	Hap Lawrence
+}
+
+
+
+*Makeup Department*(h4, tuple){
+makeup department head	:	Luisa Abel
+additonal hairstylist	:	Ashley Rae Callahan
+makeup artist	:	Renee Caruso-Napolitano
+Additional Makeup Artist	:	Gretchen Davis
+makeup artist	:	Leslie Devlin
+Key Makeup Artist NJ	:	Christy Falco
+hair stylist	:	Lydia Fantini
+crowd hair coordinator: New York Unit	:	JT Franchuk
+Add Hair Stylist	:	Rheanne Garcia
+crowd hair coordinator: Los Angeles Unit	:	Celeste Gonzalez
+Prosthetics Makeup Artist	:	Glen P. Griffin
+key makeup artist	:	Jamie Hess
+Prosthetics Makeup Artist	:	Kerrin Jackson
+crowd hair coordinator: New Mexico Unit	:	Jennifer Jane
+prosthetic makeup artist	:	Jamie Kelman
+hair department head	:	Jaime Leigh McIntosh
+key hair stylist	:	Ahou Mofid
+hair stylist	:	Robert Mrazik
+additional hair stylist	:	Jason Chandler Pettus
+Additional Makeup Artist	:	Andrea Steele
+contact lens technician	:	Teresa Stone
+hair stylist	:	Jennifer Tremont
+Makeup crowd coordinator: New Mexico	:	Sheila Trujillo
+hair stylist	:	Danielle Vigil
+Prosthetic makeup artist	:	Hiro Yada
+}
+
+*Production Management*(h4, tuple){
+post production supervisor	:	Tina Anderson
+production supervisor	:	Amiee Clark
+production manager	:	Shelagh Conley
+unit production manager	:	Thomas Hayslip
+unit production manager	:	Nathan Kelly
+unit production manager (uncredited)	:	Rafael Lima
+}
+
+*Second Unit Director or Assistant Director*(h4, tuple){
+second second assistant director	:	Jesse Carmona
+additional second assistant director	:	Dixon McPhillips
+first assistant director	:	Nilo Otero
+second assistant director	:	Andrew Stahl
+assistant director: UK (uncredited) : Francesca Millea
+additional second assistant director (uncredited)	:	Richard Molloy
+}
+
+*Art Department*(h4, tuple){
+assistant art director	:	Robert Aguirre
+property intern	:	Jen Ailey
+Drapery Foreman	:	Jory Alvarado
+lead graphic designer	:	Hilary Ament
+on set greens	:	Pedro Barquin
+set decoration coordinator	:	Johanna Belson
+assistant property master	:	Derek Bensonhaver
+set decoration buyer	:	Andrew W. Bofinger
+set dec gang boss Los Angeles	:	John R. Boucher
+set decoration buyer	:	Dani Broom-Peltz
+Welding Supervisor	:	Bryan Buckler
+standby painter	:	Jason Byers
+set dresser	:	Kyle Caraway
+gangboss propmaker	:	Antonio F. Cordova
+property master	:	Guillaume DeLouche
+set designer	:	Nancy Deren
+utility technician	:	Ralph Diaz
+set dresser	:	Geoff Dillow
+scenic foreperson: New York Unit	:	Mylon Domican
+art department coordinator	:	Heather Elwell
+plaster foreman	:	Maurice Steve Escobedo
+propmaker	:	Taylor Estevez
+Set Painter: reshoot	:	Andy Estrada
+set dresser	:	Tim Fassino
+art dept: trainee	:	Mika Cy Ferreira
+assistant property master	:	Greg Finnin
+prop maker foreman	:	Jimmy Flores
+carpenter	:	Maxwell Graves
+construction foreman	:	Mark Gutierrez
+set designer	:	Jim Hewitt
+set dresser	:	Christian Hoobyar
+assistant art director	:	Roxy Hua
+graphic designer	:	Kerry Hyatt
+Prop master: New Jersey Unit	:	Tommy Janulis
+art department assistant	:	Lauren Kelley
+set designer	:	Noelle King
+construction coordinator	:	Jonas Kirk
+utility technician	:	Paul Krumae
+set dresser	:	Chris Larsen
+set designer	:	Tammy S. Lee
+props	:	Richard Lieberman
+scenic charge: New York Unit	:	Nicolas Locke
+on-set dresser	:	Eric Luling
+art department assistant	:	William M. Lynch
+general foreman	:	Calvin Magnum
+leadman	:	Jason McDonough
+set decoration assistant	:	Bianca Medina-Montoya
+set designer	:	Justin O'Neal Miller
+set decoration buyer	:	Susanne Mueller
+property assistant	:	Christine Nelson
+Construction Medic	:	Rich Neurouter
+assistant property master	:	Rachel Nowik
+construction coordinator	:	Bruno Panacciulli
+property assistant	:	Kristina Parsons
+construction accountant	:	Zora Pasztor
+paint supervisor	:	Frank Piercy
+props	:	Liliia Radchenko
+graphic designer	:	Joshua Sankar
+set dresser	:	Scott b Schmidt
+art department assistant	:	Susu Schwaber
+ny unit	:	Zach Selter
+set designer	:	Easton Smith
+on set dresser: NY/NJ Unit	:	Yuko Sobrin
+set dec gang boss New Mexico	:	Gregg Szabo
+set dresser	:	Michael Thurman
+set dresser	:	Michael Timman
+buyer	:	Stephanie Wagner
+Set Decoration Buyer	:	Amy Wallenberg
+on-set dresser	:	Zach Ward
+Construction General Foreman	:	Mark Weber
+set decoration buyer	:	Anthony Whitman
+key greens foreman	:	Liloa Wong
+carpenter (uncredited)	:	Scott Batiste
+props (uncredited)	:	James Isaacson
+set dresser (uncredited)	:	Shiloh Kidd
+graphic designer (uncredited)	:	Ross Macdonald
+set dresser (uncredited)	:	Knathan Caise Savage
+}
+
+*Special effect by DNEG*(h2, box){
+Scott R. Fisher
+Laurie Pellard
+Mario Vanillo
+Vincent Vanillo
+Marco Baratto
+Judy Barr
+Randy Brown
+Joan Chen
+Alex Creasey
+Ivelina Dobreva
+Mike Duffy
+Jannah Farooq
+Antonella Ferrari
+Bensam G.
+Pete Howlett
+Andrew Jackson
+Jill Jivrajani
+Dan Kunz
+Ed W. Marsh
+Giacomo Mineo
+Alice Mitchell
+Ashley Mohabir
+Jay Murray
+Jose Alberto Pino
+Aditya Ponguri
+Simon Pynn
+Akul Ratra
+Christian Ganea Reitmeier
+Sergio Rincon
+Manuel Rivoir
+Tyler Simmons
+Isabel Wallace
+Paul Arion
+Mike Chambers
+Stanley A. Dellimore
+Sijo Joseph
+Rika Kulsavat
+Jenny Lee
+Stephen Parsey
+Kila Price
+Brinna Rammage
+Kathleen Squire
+}
+
+*Production Management*(h4, tuple){
+post production supervisor	:	Tina Anderson
+production supervisor	:	Amiee Clark
+production manager	:	Shelagh Conley
+unit production manager	:	Thomas Hayslip
+unit production manager	:	Nathan Kelly
+unit production manager (uncredited)	:	Rafael Lima
+}

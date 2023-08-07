@@ -1,0 +1,145 @@
+width = 1280
+height = 720
+background color = (0, 0, 0, 1) #in RGB (open) you can create color gradient by using formulas with x as value
+text color = (255, 255, 255)
+font = 1
+orientation  = 1 #(rb, br, bb , rr, b, r)
+text size = 25
+#line space = 7
+speed = 10
+box separator = •
+border = 100
+tuple space = 50
+block offset = 50
+right font = Roboto-Bold.ttf
+left font = SourceCodePro-Light.ttf
+
+*Oppenheimer*(h1, box){
+
+}
+
+
+*Cast*(h2, tuple){
+J Robert Oppenheimer:	Cillian Murphy
+Kitty Oppenheimer:	Emily Blunt
+Lewis Strauss:	Robert Downey Jr.
+Senate Aide	:	Alden Ehrenreich
+Counsel	:	Scott Grimes
+Roger Robb	:	Jason Clarke
+Thomas Morgan	:	Kurt Koehler
+Gordon Gray	:	Tony Goldwyn
+Laughing Woman	:	Kerry Westcott
+Kissing Woman	:	Christina Hogue
+Kissing Man	:	Clay Bunker
+Weeping Man	:	Tyler Beardsley
+Consoling Woman	:	Maria Teresa Zuppetta
+Presidential Aide	:	Kate French
+Harry Truman	:	Gary Oldman
+Lyndon Johnson	:	Hap Lawrence
+}
+
+
+*Production Management*(h4, tuple){
+post production supervisor	:	Tina Anderson
+production supervisor	:	Amiee Clark
+production manager	:	Shelagh Conley
+unit production manager	:	Thomas Hayslip
+unit production manager	:	Nathan Kelly
+unit production manager (uncredited)	:	Rafael Lima
+}
+
+*Second Unit Director or Assistant Director*(h4, tuple){
+second second assistant director	:	Jesse Carmona
+additional second assistant director	:	Dixon McPhillips
+first assistant director	:	Nilo Otero
+second assistant director	:	Andrew Stahl
+assistant director: UK (uncredited) : Francesca Millea
+additional second assistant director (uncredited)	:	Richard Molloy
+}
+
+
+*Special effect by DNEG*(h2, box){
+Scott R. Fisher
+Laurie Pellard
+Mario Vanillo
+Vincent Vanillo
+Marco Baratto
+Judy Barr
+Randy Brown
+Joan Chen
+Alex Creasey
+Ivelina Dobreva
+Mike Duffy
+Jannah Farooq
+Antonella Ferrari
+Bensam G.
+Pete Howlett
+Andrew Jackson
+Jill Jivrajani
+Dan Kunz
+Ed W. Marsh
+Giacomo Mineo
+Alice Mitchell
+Ashley Mohabir
+Jay Murray
+Jose Alberto Pino
+Aditya Ponguri
+Simon Pynn
+Akul Ratra
+Christian Ganea Reitmeier
+Sergio Rincon
+Manuel Rivoir
+Tyler Simmons
+Isabel Wallace
+Paul Arion
+Mike Chambers
+Stanley A. Dellimore
+Sijo Joseph
+Rika Kulsavat
+Jenny Lee
+Stephen Parsey
+Kila Price
+Brinna Rammage
+Kathleen Squire
+}
+
+*Production Management*(h4, tuple){
+post production supervisor	:	Tina Anderson
+production supervisor	:	Amiee Clark
+production manager	:	Shelagh Conley
+unit production manager	:	Thomas Hayslip
+unit production manager	:	Nathan Kelly
+unit production manager (uncredited)	:	Rafael Lima
+}
+
+*Additional Crew*(h4, table){
+    Daniel Benjamin
+Jake Blackman
+Katy Bodenhamer
+Tamara Brock
+David Croley Broyles
+Maddi Bruton
+Jules Burruel
+Kaiulani Bush
+Martin G. Castaneda
+Andrew Catania
+Taylor Cecere
+Trine Christensen
+Greg Ciaccio
+Ali Claire
+Reyna Coca
+Justyne Coffey
+William Conacher
+Elizabeth Cooke
+Gabe de Kelaita
+Holly Dellocono
+Joann Seymour DiBuono
+Bejo Dohmen
+Anita Dominguez
+Robert Wyatt Duncan
+Hunter Edmundson
+David Eisen
+Zach Elefante
+Daniel Alex Esparza
+Kelley Flynn
+}
