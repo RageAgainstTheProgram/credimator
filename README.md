@@ -7,6 +7,8 @@ A generated video can look like this:
 
 <img src ="examples/example.gif">
 
+You get this video by running: `python credimator.py examples/oppenheimerShort.txt examples/example.gif`
+
 ## Syntax
 Every line starting with `#` is a comment. Lines that include `#` will be comments from the 
 character until the end of line.
