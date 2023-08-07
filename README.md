@@ -1,4 +1,4 @@
-# credomator
+# credimator
 
 This program creates video credits from a simple textfile. 
 Simply write your content in the program-secific [syntax](#syntax) and it will generate your credits.
