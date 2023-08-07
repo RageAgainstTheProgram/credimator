@@ -3,11 +3,10 @@
 This program creates video credits from a simple textfile. 
 Simply write your content in the program-secific [syntax](#syntax) and it will generate your credits.
 
-A generated video can look like this:
+Running `python credimator.py examples/oppenheimerShort.txt examples/example.gif` gets you 
+this video:
 
 <img src ="examples/example.gif">
-
-You get this video by running: `python credimator.py examples/oppenheimerShort.txt examples/example.gif`
 
 ## Syntax
 Every line starting with `#` is a comment. Lines that include `#` will be comments from the 
