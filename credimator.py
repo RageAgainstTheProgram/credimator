@@ -637,7 +637,7 @@ getAndSetPixel(textInput, 'set')
 
 
 if os.path.exists(videoOut):
-    if debug or force or input("File allready exists. Do you want to keep existing file (y/n)? ") == 'n':
+    if debug or force or input("File allready exists. Do you want to overwrite existing file (y/n)? ") == 'y':
         os.remove(videoOut)
         printMessage(message= "Delete existing version of: " + videoOut, messageType = 'info')
     else:
