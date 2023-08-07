@@ -1,6 +1,6 @@
 width = 1280
 height = 720
-background color = (0, 0, 0, 1) #in RGB (open) you can create color gradient by using formulas with x as value
+background color = (0, 0, 0, 1)
 text color = (255, 255, 255)
 font = 1
 orientation  = 1 #(rb, br, bb , rr, b, r)
@@ -12,7 +12,7 @@ border = 100
 tuple space = 50
 block offset = 50
 right font = Roboto-Bold.ttf
-left font = SourceCodePro-Light.ttf
+left font = Roboto-Regular.ttf
 
 *Oppenheimer*(h1, box){
 
