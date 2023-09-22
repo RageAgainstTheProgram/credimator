@@ -1,16 +1,21 @@
-width = 1280
-height = 720
+width = 1920
+height = 1080
 background color = (0, 0, 0, 1) #in RGB (open) you can create color gradient by using formulas with x as value
 text color = (255, 255, 255)
-font = 1
-orientation  = 1 #(rb, br, bb , rr, b, r)
-text size = 35
-#line space = 7
-speed = 5
+tuple style = rb #(rb, br, bb , rr, b, r)
+box style = b
+table style = r
+text style = b
+text size = 45
+line space = 15
+speed = 10
 box separator = •
-border = 100
+border = 150
 tuple space = 50
 block offset = 50
+bold font = Roboto-Bold.ttf
+regular font = SourceCodePro-Light.ttf
+#enable signature = false
 
 *Oppenheimer*(h1, box){
 
@@ -101,7 +106,7 @@ Lyndon Johnson	:	Hap Lawrence
 
 
 
-*Makeup Department*(h4, tuple){
+*Makeup Department*(h4, tuple, br){
 makeup department head	:	Luisa Abel
 additonal hairstylist	:	Ashley Rae Callahan
 makeup artist	:	Renee Caruso-Napolitano
@@ -129,7 +134,7 @@ hair stylist	:	Danielle Vigil
 Prosthetic makeup artist	:	Hiro Yada
 }
 
-*Production Management*(h4, tuple){
+*Production Management*(h4, tuple, rr){
 post production supervisor	:	Tina Anderson
 production supervisor	:	Amiee Clark
 production manager	:	Shelagh Conley
@@ -138,7 +143,7 @@ unit production manager	:	Nathan Kelly
 unit production manager (uncredited)	:	Rafael Lima
 }
 
-*Second Unit Director or Assistant Director*(h4, tuple){
+*Second Unit Director or Assistant Director*(h4, tuple, bb){
 second second assistant director	:	Jesse Carmona
 additional second assistant director	:	Dixon McPhillips
 first assistant director	:	Nilo Otero
@@ -249,6 +254,9 @@ Dan Kunz
 Ed W. Marsh
 Giacomo Mineo
 Alice Mitchell
+}
+
+(h2, box, r){
 Ashley Mohabir
 Jay Murray
 Jose Alberto Pino
@@ -279,4 +287,13 @@ production manager	:	Shelagh Conley
 unit production manager	:	Thomas Hayslip
 unit production manager	:	Nathan Kelly
 unit production manager (uncredited)	:	Rafael Lima
+}
+
+*J. Robert Oppenheimer*(h4, text){
+J. Robert Oppenheimer was an American theoretical physicist and director of the Manhattan Project's 
+Los Alamos Laboratory during World War II. He is often called the "father of the atomic bomb".
+§
+Born in New York City, Oppenheimer earned a bachelor of arts degree in chemistry from Harvard University 
+in 1925 and a doctorate in physics from the University of Göttingen in Germany in 1927, 
+where he studied under Max Born…
 }

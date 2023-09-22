@@ -9,8 +9,8 @@ box separator = •
 border = 100
 tuple space = 50
 block offset = 50
-right font = Roboto-Bold.ttf
-left font = Roboto-Light.ttf
+bold font = Roboto-Bold.ttf
+regular font = Roboto-Light.ttf
 
 *Oppenheimer*(h1, box){
 
@@ -51,7 +51,7 @@ second second assistant director	:	Jesse Carmona
 additional second assistant director	:	Dixon McPhillips
 first assistant director	:	Nilo Otero
 second assistant director	:	Andrew Stahl
-assistant director: UK (uncredited) : Francesca Millea
+assistant director UK (uncredited) : Francesca Millea
 additional second assistant director (uncredited)	:	Richard Molloy
 }
 
